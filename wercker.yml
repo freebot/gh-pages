@@ -1,0 +1,22 @@
+box: debian
+build:
+  steps:
+    - install-packages:
+        packages: git
+    - script:
+        name: download theme
+        code: |
+            $(git clone https://github.com/tanksuzuki/hemingway.git ./themes/hemingway)
+    - arjen/hugo-build:
+        version: "0.14"
+        theme: hemingway
+        flags: --buildDrafts=true
+
+deploy:
+  steps:
+    - install-packages:
+        packages: git ssh-client
+    - lukevivier/gh-pages@0.2.1:
+        token: $GIT_TOKEN
+        domain: jorgeikeda.com
+        basedir: public
