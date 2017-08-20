@@ -11,13 +11,13 @@ url: /2017/01/28/6537/
 wordpress_id: 6537
 ---
 
-![](http://www.jorgeikeda.com/wp-content/uploads/2017/01/imgres.jpg)
+![This is an image](/img/47hr.jpg)
 
 El 6 de noviembre de 1904, [Hoichi Ikeda](http://imageneswp.s3.amazonaws.com/wp-content/uploads/2015/10/31152448/IMG_2766.jpg) llegó a San Francisco, California, en el S.S. Korea que partió del puerto de Kobe en Japón. De acuerdo con  el sitio [The Atlatntic Transport Line](http://www.atlantictransportline.us/), el Korea fue construido por _Newport News Shipbuilding and Drydock Co _y botado el 23 de marzo de 1901. Fue entregado el 17 de junio de 1902 e hizo la travesía inaugural el 30 de agosto de 1902,  unas dos mil personas se reunieron en el puerto de San Francisco para verlo partir.
 
 El Korea fue ordenado en 1898 por la _Pacific Mail Steamship Company_ para la ruta San Francisco-Hong Kong-Manila, pero su construcción fue lenta y no fue entregado hasta 1902. Su barco hermano fue el S.S. Siberia
 
-![](http://www.jorgeikeda.com/wp-content/uploads/2017/01/images.jpg)
+![](/img/48photo.jpg)
 
 Ambos barcos costaron $3,975,114.00 y fueron los barcos más grandes del pacífico cuando entraron en servicio. Los barcos podían viajar a 20 nudos, pero mantuvieron una velocidad en servicio de 16 nudos.  En su travesía inaugural viajó a 18 nudos y estableció el récord de 10 días, 15 horas y 15 minutos. En 1905 volvió a batir su récord que quedó en 10 días, 10 horas y 28 minutos, que se mantuvo hasta 1937.
 
@@ -27,4 +27,4 @@ El Korea y su barco hermano el Siberia fueron vendidos en 1916 a la _Toyo Kisen
 
 Los japoneses lo renombraron "Korea Maru" y sirvió para correo marítimo de 1916 a 1921 y por otras 5 semanas en 1930. Fue desechado en Japón en 1934.
 
-![](http://www.jorgeikeda.com/wp-content/uploads/2017/01/imgres-1.jpg)
+![](/img/47Korea.jpg)
