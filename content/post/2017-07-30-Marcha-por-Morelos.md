@@ -1,7 +1,6 @@
 +++
 date = "2017-07-30T13:51:52-05:00"
 title = "Marcha por Morelos"
-
 +++
 
 Morelos sufre la peor crisis política de su historia reciente. Son tantos y tan variados los actos de corrupción que resulta imposible enumerarlos en tan breve espacio. Los ciudadanos reclaman el restablecimiento del estado de derecho, sancionar a funcionarios señalados por actos de corrupción y de represión, cumplir con las recomendaciones de la Comisión Nacional de los Derechos Humanos en relación a las fosas clandestinas, castigar a los responsables por el hundimiento del paso exprés de Cuernavaca y rescatar financieramente a la Universidad del Estado.

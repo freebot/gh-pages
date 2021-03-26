@@ -1,7 +1,6 @@
 ---
 author: freebot
 categories:
-- construmix.com
 - Webmaster
 comments: true
 date: 2008-02-15T18:38:00Z

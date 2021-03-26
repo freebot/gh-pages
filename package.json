@@ -1,0 +1,24 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "De die in diem",
+  "main": "index.js",
+  "scripts": {
+    "server": "hugo server -w -v",
+    "build": "hugo -v",
+    "deploy": "aws s3 sync public/ s3://jorgeikeda.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/freebot/gh-pages.git"
+  },
+  "author": "Jorge Ikeda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/freebot/gh-pages/issues"
+  },
+  "homepage": "https://github.com/freebot/gh-pages#readme",
+  "dependencies": {
+    "@tuyapi/cli": "^1.13.4"
+  }
+}

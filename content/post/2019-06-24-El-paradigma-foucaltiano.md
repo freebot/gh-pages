@@ -1,0 +1,11 @@
++++
+title="El paradigma foucaltiano"
+date="2019-06-24T19:39:14+00:00"
++++
+<p>En Twitter, Irving Gatell se define como músico, teólogo y escritor enfocado a la Historia Judia y al conflicto de Medio Oriente. Irving Gatell, en un hilo de su cuenta de twitter @IrvingGatell, explica que el discurso del Presidente López Obrador (AMLO, en adelante) está lleno de paradigmas foucaltianos a pesar de que no ha leído a Focault y si lo leyó, no le entendió; dado que está muy por encima de sus facultades intelectuales.<br />
+Para Michel Foucault; discurso, poder y saber forman un trinomio. El discurso legitima al poder y el poder institucionaliza el saber, entre discurso y saber se forma una política general de la verdad que se encarga de distinguir los enunciados falsos de los verdaderos, de sancionar los discursos alternativos y de definir las técnicas y procedimientos adecuados para la obtención de la verdad que interesa al poder. En otras palabras, Irving Gatell explica que la &#8220;veracidad&#8221; o &#8220;falsedad&#8221; de cierto conocimiento se determina desde el poder.<br />
+Las Ciencias Exactas deberían quedar fuera de esta concepción, pues tienen un valor de verdad por sí mismas, pero para Foucault y sus seguidores, según  Gatell, no contemplaron esa posibilidad. Ya que todo el discurso es construido y su validez es una imposición arbitraria desde el poder.<br />
+Por ejemplo, para Karl Popper el derecho no podría tener como criterio de verdad lo decidido por once señores con toga negra en el pleno de la Corte. Para Focault este sería el ejemplo de la verdad definida desde el poder.<br />
+Irving Gatell sostiene que cada vez que AMLO es confrontado con datos estadísticos (matemáticas), contesta que él tiene otros datos y punto final de la discusión. Para AMLO, según Gatell, la matemática no vale porque &#8220;es una herramienta de la prensa fifí, conservadora, chayotera y traidora.&#8221;<br />
+La lucha por devolverle el poder a los pobres o al pueblo, en palabras de  Gatell, está por encima del conocimiento científico. Por esa misma razón, AMLO no invierte en ciencia y tecnología. Para Irving Gatell, el papel más penoso lo desempeñan los chairos que estudiaron a Foucault y no pueden relacionar todo esto con la realidad. </p>
+	

@@ -11,7 +11,7 @@ url: /2009/02/12/a-favor-de-que-despenalicen-el-uso-personal-de-la-marihuana/
 wordpress_id: 244
 ---
 
-[caption id="" align="aligncenter" width="310" caption="Foto de Medical Marijuana"]![Prop 215](http://www.chrisconrad.com/images/cm.215-96.jpeg)[/caption]
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/68420805@N07/30315857257/in/dateposted-public/" title="1024px-Aboard_the_420_Friendly_Party_Bus"><img src="https://farm2.staticflickr.com/1924/30315857257_5dea3036e6.jpg" width="500" height="375" alt="1024px-Aboard_the_420_Friendly_Party_Bus"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 La Comisión Latinoamericana sobre Drogas y Democracia se pronunció a favor de que despenalicen el uso personal de la marihuana. Además de los ex-presidentes de México, Brasil y Colombia están los mexicanos Alejandro Junco (Director de Reforma) y Enrique Krauze. La Blue Ribbon Commission se pronunció por despenalizar la marihuana y no a favor de otras drogas, como lo mal interpretaron en México.
 

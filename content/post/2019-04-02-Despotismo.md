@@ -1,0 +1,10 @@
++++
+date = "2019-04-02T00:54:58+00:00"
+title = "Despotismo"
++++
+<p>El Presidente Andrés Manuel López Obrador, en su conferencia de prensa mañanera, comparó a los pobres con los animales. De acuerdo con esta <a href="https://www.eluniversal.com.mx/nacion/amlo-comparo-los-pobres-con-animalitos-esto-dijo">nota</a> del diario El Universal, el Presidente dijo:</p>
+<blockquote><p>
+&#8220;&#8230;a justicia es atender a la gente humilde, a la gente pobre; esa es la función del Gobierno. Hasta los animalitos que tienen sentimientos, ya está demostrado.  Ni modo que se le diga a una mascota: A ver, vete a buscar tu alimento. Pues se les tiene que dar su alimento, pero en la concepción neoliberal todo eso es populismo&#8221;</p></blockquote>
+<p>Norberto Bobbio, en su obra <em>Estado, gobierno y sociedad</em>, dice que en la <em>Política </em> de Aristóteles se distingue tres tipos de poder con base en la esfera en la que se ejerce: &#8220;el poder del padre sobre el hijo, del amo sobre el esclavo, del gobernante sobre los gobernados&#8221;. De ahí surge la clasificación de formas de poder en paternal, despótico y civil. En el gobierno paternal, el gobernante trata a los gobernados como menores de edad eternos. Según Bobbio, Locke criticó esta forma de gobierno y Kant retomó esta critica al compararlo con el Estado eudemonológico que se preocupa por la felicidad de sus súbditos en lugar de garantizarles la libertad. El gobierno despótico trata a los gobernados como esclavos a los que no se les reconoce ningún derecho. </p>
+<p>El Presidente dijo que para los neoliberales esto era populismo. También lo llamó paternalismo. ¿Los animales están en una posición similar a la de los hijos o la de los esclavos? Aunque existen casos patológicos que consideran a los perros como sus hijos, hasta los han denominado &#8220;perrhijos&#8221;. Sin embargo, la posición de los animales es más cercana a la de los esclavos, que no tienen derechos de ninguna especie. Por lo que lo descrito por el Presidente se asemeja más al despotismo  que al paternalismo. ¿Será una advertencia premonitoria de los que nos espera en su gobierno?</p>
+		

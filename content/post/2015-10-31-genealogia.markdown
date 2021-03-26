@@ -27,7 +27,7 @@ La aplicación también ofreció agregar a mi árbol genealógico los datos del 
 
 [![IMG_2766](http://imageneswp.s3.amazonaws.com/wp-content/uploads/2015/10/31152448/IMG_2766-300x233.jpg)](http://imageneswp.s3.amazonaws.com/wp-content/uploads/2015/10/31152448/IMG_2766.jpg)
 
-En el S.S. Korea, procedente del puerto de Kobe en Japón, Hoichi Ikeda desembarcó  en el puerto de San Francisco el 6 de noviembre de 1904. Hombre, soltero, campesino, sabe leer y escribir (japonés), de nacionalidad japonesa, de raza japonesa, última residencia; Yamaguchiken, no había estado en prisión, no era polígamo, no era anarquista, la columna 20 no se lee bien, pero dice que no, en buena condición de salud, física y mental, y no estaba deforme ni tullido.
+En el S.S. Korea, procedente del puerto de Kobe en Japón, Hoichi Ikeda desembarcó  en el puerto de San Francisco el 17 de noviembre de 1904. Hombre, soltero, campesino, sabe leer y escribir (japonés), de nacionalidad japonesa, de raza japonesa, última residencia; Yamaguchiken, no había estado en prisión, no era polígamo, no era anarquista, la columna 20 no se lee bien, pero dice que no, en buena condición de salud, física y mental, y no estaba deforme ni tullido.
 
 [![IMG_2765](http://imageneswp.s3.amazonaws.com/wp-content/uploads/2015/10/31154327/IMG_2765-300x139.jpg)](http://imageneswp.s3.amazonaws.com/wp-content/uploads/2015/10/31154327/IMG_2765.jpg)
 

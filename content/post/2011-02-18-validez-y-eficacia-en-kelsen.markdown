@@ -20,7 +20,7 @@ A partir de la lectura del capítulo I de la_ Teoría Pura del Derecho_  de Kels
 
 
 
-En esta anterior [entrada](http://www.jorgeikeda.com/wordpress/?p=2543) al blog describía como Scarpelli hace una distinción entre ciencia empírica y ciencia abstracta, y categorizaba al Derecho en esta última. A la Sociología del Derecho correspondía el honor de ser la ciencia empírica que comprobaba si la norma jurídica lograba la conducta esperada.
+En esta anterior [entrada](http://www.jorgeikeda.com/wordpress/?p=2543) al blog describía como Scarpelli hace una distinción entre ciencia empírica y ciencia abstracta, y argumentaba que el Derecho no pertenece a ninguna de las dos, sino que se parece a la teología. A la Sociología del Derecho correspondía el honor de ser la ciencia empírica que comprobaba si la norma jurídica lograba la conducta esperada.
 
 
 

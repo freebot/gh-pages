@@ -1,0 +1,8 @@
++++
+title="La caja de Pandora"
+date="2020-04-06T01:47:34+00:00"
++++
+<p>El 2 de abril de 2020 se transmitió el webminar &#8220;Derecho y Pandemia&#8221; por internet. En su ponencia, Luis Pérez de Acha mencionó que el gobierno se puso creativo y en lugar de decretar una contingencia sanitaria, decretó una emergencia sanitaria por causa de fuerza mayor. Si hubiera decretado lo primero, se actualizaría la hipótesis contenida en la fracción VII del artículo 427 de la Ley Federal del Trabajo (en adelante LFT) y en consecuencia los patrones sólo estarían obligados a pagar un salario mínimo hasta por 30 días de acuerdo con la fracción IV del artículo 429 de la LFT. Sin embargo, al declarar la fuerza mayor no imputable al patrón, se aplica la fracción I del 427 de la LFT y en consecuencia la fracción I del 429 de la LFT y los patrones deben pagar completos los salarios. Si se puede suspender la relación laboral, pero en este supuesto se debe solicitar al Tribunal.<br />
+Para el ponente Luis Pérez de Acha el concepto de fuerza mayor se puede extender a la materia civil y mercantil, como una excepción válida en el cumplimiento de las obligaciones. ¿Podría constituir el decreto publicado el 31 de marzo de 2020 en el Diario Oficial de la Federación en una excepción para el cumplimiento de las obligaciones? La causa mayor es una causa válida para dar terminados los arrendamientos, por ejemplo.<br />
+A quien le haya parecido una buena idea decretar la emergencia sanitaria por fuerza mayor en lugar de la contingencia sanitaria para que los trabajadores se fueran con sus salarios completos, abrió la caja de Pandora que puede tener graves afectaciones en el cumplimiento de las obligaciones. </p>
+		

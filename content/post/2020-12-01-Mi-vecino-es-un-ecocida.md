@@ -1,0 +1,22 @@
++++
+title="Mi vecino es un ecocida"
+date="2020-12-02T00:27:40+00:00"
++++
+<p>Si se busca el nombre de Pedro Santiago Chávez en Google se va a encontrar una nota de la revista Proceso titulada &#8220;<a href="https://web.archive.org/web/20201201234622/https://www.proceso.com.mx/reportajes/2012/7/18/tortura-pero-con-metodo-105797.html">Tortura&#8230;pero con método</a>&#8221; del día 18 de julio de 2012 y firmada por Arturo Rodríguez García. En este reportaje se relata la participación del teniente coronel Pedro Santiago Chávez en la desaparición y posterior homicidio de Jethro Ramsés Sánchez Santana. El caso &#8220;Jethro&#8221; impactó en su momento a la ciudadanía morelense. Lo más probable es que se haya tratado de una bravuconada que le costó la vida al joven Jethro. Todo parte de una riña entre rivales de fútbol llanero que se da en la feria de Cuernavaca.  Jethro dijo tener familiares en la policía o estar relacionado con la delincuencia organizada, no se sabe si para impresionar a los rivales o a la policía. Por estos hechos fue detenido y semanas después apareció su cadáver en un paraje de Atlixco, Puebla. </p>
+
+
+
+<p>El artículo 2 de la Convención Internacional para la protección de todas las personas contra las desapariciones forzadas la define como: &#8220;el arresto, la detención, el secuestro o cualquier otra forma de privación de libertad que sean obra de agentes del Estado o por personas o grupos de personas que actúan con la autorización, el apoyo o la aquiescencia del Estado, seguida de la negativa a reconocer dicha privación de libertad o del ocultamiento de la suerte o el paradero de la persona desaparecida, sustrayéndola a la protección de la ley.&#8221;</p>
+
+
+
+<p>De acuerdo con el <a href="https://web.archive.org/web/20201201234622/https://www.proceso.com.mx/reportajes/2012/7/18/tortura-pero-con-metodo-105797.html">reportaje </a>de Arturo Rodríguez García, la policía municipal de Cuernavaca entregó el detenido a la Policía Federal y ésta a su vez al 21 Batallón de Infantería. El oficio que autorizaba la aplicación del &#8220;cuestionario inteligente&#8221; está firmado por el coronel de infantería José Guadalupe Arias Agredano quien actualmente está preso en Campo Militar número 1 por el caso &#8220;Jethro&#8221; de acuerdo con información de <a href="https://web.archive.org/web/20201201234622/https://www.proceso.com.mx/reportajes/2012/7/18/tortura-pero-con-metodo-105797.html">Proceso</a>. Según Arturo Rodríguez García, Pedro Santiago Chávez era el encargado de las consignaciones ante el Ministerio Público y un teniente apellidado Legorreta era el encargado de aplicar el &#8220;cuestionario inteligente&#8221; e interrogar a los detenidos. Ambos nombres aparecieron insistentemente en la averiguación del caso &#8220;Jethro&#8221; de acuerdo con el reportaje arriba citado. </p>
+
+
+
+<p>El párrafo quinto del artículo 16 de la Constitución Política de los Estados Unidos Mexicanos establece que cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad civil más cercana y ésta con la misma prontitud, a la del Ministerio Público. En ninguna parte establece que se le dará el detenido al ejército para éste que lo interrogue y le de muerte. Dicen que tanto peca el que mata la vaca como el que le detiene la pata. Si el teniente coronel Pedro Santiago Chávez era el responsable de las consignaciones ante el Ministerio Público, como establece el reportaje, pudo haber cometido un delito por omisión. </p>
+
+
+
+<p>No hubiera escrito nada sobre el teniente coronel Pedro Santiago Chávez si éste no hubiera destrozado el árbol que planté frente a mi domicilio y que el susodicho destrozó porque afectaba la visión de sus cámaras de seguridad. Este hecho fue denunciado en el chat de vecinos  y este atrevimiento me costó la expulsión del chat que administraba su esposa. En otro chat privado este sujeto reconoció los hechos y me amenazó con causarle daño a la propiedad que habito.  Aunque el que escribe estas líneas haya plantado el árbol, éste le pertenece al Ayuntamiento de Cuernavaca, por lo que puse la correspondiente denuncia ante la Secretaría de Desarrollo Sustentable y Servicios Públicos del<em> </em>Ayuntamiento de Cuernavaca (que no hizo nada) y puse una queja ante la Comisión Nacional de Derechos Humanos, no vaya a correr la misma suerte que Jethro. </p>
+	
